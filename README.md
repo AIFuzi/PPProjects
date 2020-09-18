@@ -1,3 +1,3 @@
 # registerC
 
-readme/sc.png "Описание будет тут"
+![как скачать](readme/sc.png "Описание будет тут")
