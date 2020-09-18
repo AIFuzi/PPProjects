@@ -1,3 +1,3 @@
 # registerC
 
-[alt text](readme/sc.png "Описание будет тут")
+readme/sc.png "Описание будет тут"
