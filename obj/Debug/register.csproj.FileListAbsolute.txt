@@ -1,0 +1,12 @@
+H:\VSProject\register\bin\Debug\register.exe.config
+H:\VSProject\register\bin\Debug\register.exe
+H:\VSProject\register\bin\Debug\register.pdb
+H:\VSProject\register\obj\Debug\register.Forms.AdminForm.resources
+H:\VSProject\register\obj\Debug\register.Form1.resources
+H:\VSProject\register\obj\Debug\register.Login.resources
+H:\VSProject\register\obj\Debug\register.Forms.UserForm.resources
+H:\VSProject\register\obj\Debug\register.Properties.Resources.resources
+H:\VSProject\register\obj\Debug\register.Register.resources
+H:\VSProject\register\obj\Debug\register.csproj.GenerateResource.cache
+H:\VSProject\register\obj\Debug\register.exe
+H:\VSProject\register\obj\Debug\register.pdb
