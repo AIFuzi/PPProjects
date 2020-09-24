@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using register.Forms;
@@ -42,7 +35,7 @@ namespace register
                         usrF.ShowDialog();
                         break;
                     case "admin":
-                        AdminForm admForm = new AdminForm();
+                        AdminForm admForm = new AdminForm(Convert.ToInt32(userData[3]));
                         admForm.ShowDialog();
                         break;
                 }

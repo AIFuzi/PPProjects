@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
@@ -13,6 +6,8 @@ namespace register
 {
     public partial class Register : Form
     {
+        public int AdminLevel = 0;
+
         public Register()
         {
             InitializeComponent();
@@ -26,9 +21,9 @@ namespace register
                 {
                     string filePath = @"user.txt";
 
-                    StreamWriter sw = new StreamWriter(filePath, true, System.Text.Encoding.Default);
+                    StreamWriter sw = new StreamWriter(filePath);
 
-                    sw.WriteLine(TB_Login.Text + " " + TB_Pass.Text + " " + "user ");
+                    sw.WriteLine(TB_Login.Text + " " + TB_Pass.Text + " " + "user " + AdminLevel);
                     sw.Flush();
 
                     MessageBox.Show("Уcпешная регистрация", "Успешно");
