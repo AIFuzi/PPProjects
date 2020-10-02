@@ -1,0 +1,8 @@
+H:\VSProject\Matrix\bin\Debug\Matrix.exe.config
+H:\VSProject\Matrix\bin\Debug\Matrix.exe
+H:\VSProject\Matrix\bin\Debug\Matrix.pdb
+H:\VSProject\Matrix\obj\Debug\Matrix.Form1.resources
+H:\VSProject\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+H:\VSProject\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+H:\VSProject\Matrix\obj\Debug\Matrix.exe
+H:\VSProject\Matrix\obj\Debug\Matrix.pdb
